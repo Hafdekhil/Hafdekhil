@@ -1,65 +1,61 @@
 # 👋 Hi, I'm Hafedh Dekhil
 
 🎓 PhD in Biotechnology  
-🤖 Artificial Intelligence & IoT Enthusiast  
-💻 Software Developer | Data & Embedded Systems  
+🤖 Artificial Intelligence & IoT Developer  
+📊 Data Science & Embedded Systems  
 
 ---
 
 ## 🚀 About Me
 
-I am currently expanding my expertise in:
+I specialize in building intelligent systems combining:
 
 - Artificial Intelligence
 - Machine Learning
-- IoT Systems & Embedded Programming
-- Data Analysis & Visualization
+- IoT & Embedded Systems
+- Scientific Data Analysis
 
-With a strong scientific background and hands-on software development experience, I focus on building intelligent and reliable systems.
+With a strong research background and practical software engineering skills, I design structured, scalable and reliable systems.
 
 ---
 
 ## 🧠 Featured Projects
 
-### 🔹 Intelligence Artificielle 1
-Python, NumPy, Pandas, Scikit-Learn  
-Data manipulation, normalization, ML fundamentals  
-
-### 🔹 SmartLab IoT
-Raspberry Pi, MQTT, Sensors, LED control  
-Real-time supervision and mobile dashboard  
-
-### 🔹 Tkinter Dashboard (Threading)
-Multithreading, Queue, UI synchronization  
-Clean architecture for real-time simulation  
-
-### 🔹 FSM Traffic Light
-Finite State Machine implementation  
-GPIO abstraction and structured design  
-
-### 🔹 AlarmGuard (PyGame)
-Graphical alert monitoring system  
-State management and UI rendering  
+🔹 [Intelligence Artificielle 1](https://github.com/Hafdekhil/intelligence-artificielle-1)  
+🔹 [SmartLab IoT](https://github.com/Hafdekhil/smartlab-iot)  
+🔹 Tkinter Dashboard (Threading)  
+🔹 FSM Traffic Light  
+🔹 AlarmGuard (PyGame)  
+🔹 MyHealthTrackerPro (In Development)
 
 ---
 
-## 🛠 Technical Stack
+## 🛠 Tech Stack
 
-**Languages:**  
-Python, SQL  
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
-**Libraries & Tools:**  
-NumPy, Pandas, Scikit-Learn, Tkinter, PyGame, MQTT, MongoDB  
+### Data & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
 
-**Hardware:**  
-Raspberry Pi, Sensors (DHT11), GPIO  
+### UI & Systems
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge)
+![PyGame](https://img.shields.io/badge/PyGame-00A98F?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
 ---
 
-## 📊 Current Development
+## 📊 GitHub Stats
 
-🧬 MyHealthTrackerPro  
-Health data monitoring and analytics platform (in development)
+![Hafedh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hafdekhil&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Hafdekhil&theme=tokyonight)
 
 ---
 
@@ -70,4 +66,5 @@ Health data monitoring and analytics platform (in development)
 
 ---
 
-⭐ Always building. Always learning.
+⭐ Building intelligent systems.  
+⭐ Bridging science and technology.
